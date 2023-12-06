@@ -1,0 +1,17 @@
+PORTFOLIO
+
+- Colaborador de desenvolvimento da ETIC EATS
+ETIC_ Algarve | 2023 
+
+Desenvolvi e mantive em diversas partes da app, tive a responsabilidade de fazer o backend da avaliação da app
+
+Foi a primeira vez em que trabalhei em equipa presencialmente e em via Discord
+
+Tentei ajudar os meus colegas aqueles que participaram e também organizei uma parte da equipa e da estrutura do código
+
+- Criação de codigo de uma máquina de café
+ETIC_ Algarve | 2023
+
+Desenvolvi e criei código d3e uma máquina de café do zero
+
+Foi o primeiro grande projeto feito solo,
